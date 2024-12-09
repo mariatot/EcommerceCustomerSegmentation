@@ -2,8 +2,6 @@
 
 Projet de segmentation des clients d'un site e-commerce utilisant des méthodes d'apprentissage non supervisé (K-means, Clustering hiérarchique). Analyse des comportements d'achat et des données démographiques pour identifier des segments de clients et proposer des recommandations pour les campagnes marketing et la maintenance des segments.
 
-# EcommerceCustomerSegmentation
-
 ## Description
 Ce projet a pour objectif de :  
 1. **Segmenter les clients** d'un site e-commerce à l'aide de méthodes non supervisées (K-means, clustering hiérarchique, DBSCAN).  
